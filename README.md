@@ -4,7 +4,7 @@
 - **Email:** alvaro.lacasa.vela@gmail.com
 - **Location:** Barcelona, Spain
 - **[LinkedIn](www.linkedin.com/in/alvaro-lacasa-vela-363557210)**
-- **[Bold Profile]([https://www.bold.com/in/your-bold-profile](https://bold.pro/my/alvaro-lacasavela))**
+- **[Bold Profile](https://bold.pro/my/alvaro-lacasavela)**
 
 ## Education and Training
 - **Higher technician in computer network systems management and Cybersecurity**
