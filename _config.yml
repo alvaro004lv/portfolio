@@ -1,3 +1,23 @@
-title: Alvaro Lacasa
+title: "Alvaro Lacasa Portfolio"
+description: "Cybersecurity Professional Portfolio"
+baseurl: ""
+url: "https://alvaro004lv.github.io/portfolio"
 
 theme: jekflix
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+paginate: 5
+
+# Jekflix specific settings
+jekflix:
+  github:
+    url: "https://github.com/alvaro004lv/portfolio"
+  linkedin: "your-linkedin-profile"
+  email: "alvaro.lacasa.vela@gmail.com"
+
