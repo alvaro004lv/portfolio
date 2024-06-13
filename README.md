@@ -2,8 +2,7 @@
 
 ## Contact
 - **Email:** alvaro.lacasa.vela@gmail.com
-- **Phone:** +34640042356
-- **Location:** 08173, Barcelona, Spain
+- **Location:** Barcelona, Spain
 - **[LinkedIn](www.linkedin.com/in/alvaro-lacasa-vela-363557210)**
 - **[Bold Profile]([https://www.bold.com/in/your-bold-profile](https://bold.pro/my/alvaro-lacasavela))**
 
