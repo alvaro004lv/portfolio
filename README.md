@@ -1,4 +1,4 @@
-# Cybersecurity Professiona
+# Cybersecurity Professional
 
 ### Education 
 
