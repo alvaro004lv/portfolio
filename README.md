@@ -3,7 +3,7 @@
 ## Contact
 - **Email:** alvaro.lacasa.vela@gmail.com
 - **Location:** Barcelona, Spain
-- **[LinkedIn](www.linkedin.com/in/alvaro-lacasa-vela-363557210)**
+- **[LinkedIn](https://www.linkedin.com/in/alvaro-lacasa-vela-363557210)**
 - **[Bold Profile](https://bold.pro/my/alvaro-lacasavela)**
 
 ## Education and Training
