@@ -3,6 +3,7 @@ description: "Cybersecurity Professional Portfolio"
 baseurl: ""
 url: "https://alvaro004lv.github.io/portfolio"
 
+<<<<<<< HEAD
 theme: jekflix
 
 markdown: kramdown
@@ -21,3 +22,6 @@ jekflix:
   linkedin: "your-linkedin-profile"
   email: "alvaro.lacasa.vela@gmail.com"
 
+=======
+theme: "jekflix"
+>>>>>>> 93c7ef68f0271a1a876bf5ae3122a868539d307d
