@@ -1,39 +1,7 @@
 # Cybersecurity Professional
 
-## Contact
-- **Email:** alvaro.lacasa.vela@gmail.com
-- **Location:** Barcelona, Spain
-- **[LinkedIn](https://www.linkedin.com/in/alvaro-lacasa-vela-363557210)**
-- **[Bold Profile](https://bold.pro/my/alvaro-lacasavela)**
-
-## Education and Training
-- **Higher technician in computer network systems management and Cybersecurity**
-  - STUCOM, Barcelona, Spain
-  - 06/2024
-- **High School Diploma**
-  - Angeleta Ferrer, Sant Cugat, Spain
-  - 05/2022
-- **Exchange Year - High School**
-  - Spencer County HS, Taylorsville, Kentucky USA
-  - 05/2020
-
-## Languages
-- **Spanish:** First Language
-- **Catalan:** C2
-- **English:** C1
-
 ## Summary
 A dedicated and proactive professional with a passion for continuous learning and growth. I excel in developing innovative and safe technological solutions, always striving to stay ahead in a rapidly evolving field. My strong problem-solving skills and ability to adapt to new technologies enable me to effectively tackle complex challenges.
-
-## Skills
-- PfSense
-- BurpSuite
-- WireShark
-- Kali Linux Tools
-- Active Directory
-- Virtualization Technologies
-- Visual Studio Code
-- Laravel / Framework Technologies
 
 ## Experience
 ### IT Technician
@@ -57,3 +25,32 @@ A dedicated and proactive professional with a passion for continuous learning an
 - 09/2022 - 06/2023
   - Developed and implemented robotics curricula for students of all ages.
   - Created projects that challenged students to build their own robots from scratch.
+
+## Skills
+- PfSense
+- BurpSuite
+- WireShark
+- Kali Linux Tools
+- Active Directory
+- Virtualization Technologies
+- Visual Studio Code
+- Laravel / Framework Technologies
+
+## Education and Training
+- **Higher technician in computer network systems management and Cybersecurity**
+  - STUCOM, Barcelona, Spain
+  - 06/2024
+- **High School Diploma**
+  - Angeleta Ferrer, Sant Cugat, Spain
+  - 05/2022
+- **Exchange Year - High School**
+  - Spencer County HS, Taylorsville, Kentucky USA
+  - 05/2020
+
+## Languages
+- **Spanish:** First Language
+- **Catalan:** C2
+- **English:** C1
+
+
+
