@@ -6,7 +6,7 @@ A dedicated and proactive professional with a passion for continuous learning an
 ## Experience
 ### IT Technician
 **Laboratori DAU** | Barcelona, Spain
-- 10/2023 - Current
+- 10/2023 - 06/2024
   - Implemented security measures such as firewall configuration and virus protection software installation and updates.
   - Performed internal vulnerability scans to harden owned systems against intrusion and malicious activity.
   - Maintained user accounts in Active Directory and Exchange Server environments.
@@ -15,7 +15,7 @@ A dedicated and proactive professional with a passion for continuous learning an
 
 ### IT Intern
 **Greentube Malta** | Birkirkara, Malta
-- 05/2023 - 07/2024
+- 05/2023 - 07/2023
   - Provided technical support to users with a variety of questions related to computer systems, software, and hardware.
   - Maintained inventory records of all hardware equipment used by the organization.
   - Resolved customer service issues related to IT systems in a timely manner.
