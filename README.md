@@ -1,17 +1,5 @@
 # Alvaro Lacasa Vela — Portfolio
 
-Personal portfolio built with plain HTML, CSS and JavaScript (no frameworks, no trackers).
-Apple-style "liquid glass" design with interactive widgets: a working terminal, payload encoder,
-OWASP Top 10 quiz, macOS-style dock and Spotlight search (`Ctrl/⌘ + K`).
-
-Run locally:
-
-```bash
-python -m http.server 8000
-```
-
----
-
 # CV
 
 ## Profile
